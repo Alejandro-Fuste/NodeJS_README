@@ -1,12 +1,15 @@
-const questions = [
+const inquirer = require('inquirer');
+const fs = require('fs');
+const util = require('util');
+const api = require('./utils/api.js');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 
-];
+// console.log(JSON.stringify(generateMarkdown));
 
-function writeToFile(fileName, data) {
-}
+// const questions = [ {} ];
 
-function init() {
+// function writeToFile(fileName, data) {}
 
-}
+// function init() {}
 
-init();
+// init();
