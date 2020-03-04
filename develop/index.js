@@ -1,4 +1,5 @@
 const inquirer = require('inquirer');
+const axios = require('axios');
 const fs = require('fs');
 const util = require('util');
 const api = require('./utils/api');
@@ -51,9 +52,13 @@ const questions = inquirer
 		}
 	])
 	.then((data) => {
+		// const ax = api.getUser(data.userName);
+
+		// console.log(ax);
 		const md = generateMarkdown(data);
 		return writeToFile('README.md', md);
-	});
+	})
+	.catch((err) => console.log(err));
 
 function writeToFile(fileName, data) {
 	fs.writeFile(fileName, data, (err) => {

@@ -1,5 +1,6 @@
 
 # Read Me Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
 
@@ -43,7 +44,7 @@ test3
 
 ## Tests 
 
-To run tests, run he following command:
+To run tests, run the following command:
 
 ```
 
@@ -54,5 +55,5 @@ npm test
 ## Questions
 
 
-If you have any questions about the repo, open an issue or contact [ZepCap ](undefined) directly at null.
+If you have any questions about the repo, open an issue or contact [ZepCap](undefined) directly at null.
 
