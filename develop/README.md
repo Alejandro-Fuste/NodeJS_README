@@ -1,6 +1,6 @@
 
-# Read Me
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Read Me Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Description 
 
@@ -36,7 +36,7 @@ test2
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the undefined license.
 
 ## Contributing
 
@@ -54,6 +54,7 @@ npm test
 
 ## Questions
 
+<img src="https://avatars2.githubusercontent.com/u/48495840?v=4" alt="avatar" style="border-radius: 16px" width="30"/>
 
-If you have any questions about the repo, open an issue or contact [Alejandro](undefined) directly at null.
+If you have any questions about the repo, open an issue or contact [Alejandro](https://github.com/ZepCap) directly at null.
 

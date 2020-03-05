@@ -1,7 +1,7 @@
 function generateMarkdown(data) {
 	return `
-# ${data.title}
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# ${data.title} [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Description 
 
@@ -55,8 +55,9 @@ ${data.test}
 
 ## Questions
 
+<img src="${data.image}" alt="avatar" style="border-radius: 16px" width="30"/>
 
-If you have any questions about the repo, open an issue or contact [${data.userName}](${data.email}) directly at null.
+If you have any questions about the repo, open an issue or contact [${data.name}](${data.email}) directly at null.
 
 `;
 }
