@@ -4,7 +4,7 @@
 
 ## Description 
 
-This application will create a new README file for a new project.
+This application will generate a new read me file for a project.
 
 ## User Story
 
@@ -44,7 +44,7 @@ npm i
 
 ## Usage
 
-This application will need the inquirer package from npm.
+This repo will need inquirer from npm.
 
 ## License
 
@@ -52,7 +52,7 @@ This project is licensed under the undefined license.
 
 ## Contributing
 
-All contributions are welcome.
+All contribution welcome.
 
 ## Tests 
 

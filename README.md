@@ -48,6 +48,14 @@ GIVEN the developer has a GitHub profile and a repository
 WHEN prompted for the developer's GitHub username and repo specific information
 
 THEN a README for the repo is generated
+
+```
+
+```
+<video width="320" height="240" autoplay> 
+<source src="./Screen Recording 2020-03-05 at 12.35.24 AM.mov">
+</video>
+
 ```
 
 - - - 
