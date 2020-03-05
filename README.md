@@ -51,19 +51,13 @@ THEN a README for the repo is generated
 
 ```
 
-```
-<video width="320" height="240" autoplay> 
-<source src="./Screen Recording 2020-03-05 at 12.35.24 AM.mov">
-</video>
-
-```
 
 ## Finished HW GIF
 
-```
+
 <iframe src="https://giphy.com/embed/d9BAlDUPE4U2KtFxlx" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/d9BAlDUPE4U2KtFxlx">via GIPHY</a></p>
 
-```
+
 
 - - - 
 
