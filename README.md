@@ -57,6 +57,7 @@ THEN a README for the repo is generated
 
 <iframe src="https://giphy.com/embed/d9BAlDUPE4U2KtFxlx" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/d9BAlDUPE4U2KtFxlx">via GIPHY</a></p>
 
+<!-- <img src="https://giphy.com/gifs/d9BAlDUPE4U2KtFxlx" alt="finished gif" style="border-radius: 16px" width="300" height="180"/> -->
 
 
 - - - 
