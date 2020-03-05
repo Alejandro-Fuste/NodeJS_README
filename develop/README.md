@@ -1,5 +1,5 @@
 
-# Read Me Generator  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Read Me Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description 
@@ -12,7 +12,7 @@ test
 
 AS A developer
 
-I WANT a README generator 
+I WANT a README generator
 
 SO THAT I can easily put together a good README for a new project
 
