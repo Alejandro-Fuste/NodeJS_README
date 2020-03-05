@@ -4,7 +4,19 @@
 
 ## Description 
 
-test
+This application will create a new README file for a new project.
+
+## User Story
+
+```
+
+AS A developer
+
+I WANT a README generator
+
+SO THAT I can easily generate a good README for a new project
+
+```
 
 ## Table of Contents
 
@@ -32,7 +44,7 @@ npm i
 
 ## Usage
 
-test2
+This application will need the inquirer package from npm.
 
 ## License
 
@@ -40,7 +52,7 @@ This project is licensed under the undefined license.
 
 ## Contributing
 
-test3
+All contributions are welcome.
 
 ## Tests 
 
@@ -54,7 +66,7 @@ npm test
 
 ## Questions
 
-<img src="https://avatars2.githubusercontent.com/u/48495840?v=4" alt="avatar" style="border-radius: 16px" width="30"/>
+<img src="https://avatars2.githubusercontent.com/u/48495840?v=4" alt="avatar" style="border-radius: 16px" width="60"/>
 
 If you have any questions about the repo, open an issue or contact [Alejandro](https://github.com/ZepCap) directly at null.
 

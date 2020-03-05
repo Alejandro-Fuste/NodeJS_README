@@ -7,6 +7,18 @@ function generateMarkdown(data) {
 
 ${data.description}
 
+## User Story
+
+\`\`\`
+
+AS A developer
+
+I WANT a README generator
+
+SO THAT I can easily generate a good README for a new project
+
+\`\`\`
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -55,7 +67,7 @@ ${data.test}
 
 ## Questions
 
-<img src="${data.image}" alt="avatar" style="border-radius: 16px" width="30"/>
+<img src="${data.image}" alt="avatar" style="border-radius: 16px" width="60"/>
 
 If you have any questions about the repo, open an issue or contact [${data.name}](${data.email}) directly at null.
 
