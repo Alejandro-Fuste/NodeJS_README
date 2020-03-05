@@ -11,11 +11,11 @@ ${data.description}
 
 \`\`\`
 
-AS A developer
+AS A ${data.who}
 
-I WANT a README generator
+I WANT ${data.what}
 
-SO THAT I can easily generate a good README for a new project
+SO THAT I ${data.why}
 
 \`\`\`
 

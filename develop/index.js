@@ -22,6 +22,21 @@ const questions = [
 		message: 'Please write a short description of the project.'
 	},
 	{
+		type: 'input',
+		name: 'who',
+		message: 'Please write the "who" part of the user story.'
+	},
+	{
+		type: 'input',
+		name: 'what',
+		message: 'Please write the "what" part of the user story.'
+	},
+	{
+		type: 'input',
+		name: 'why',
+		message: 'Please write the "why" part of the user story.'
+	},
+	{
 		type: 'list',
 		name: 'license',
 		message: 'What kind of license should your project have?',
@@ -71,6 +86,9 @@ function init() {
 					image: res.data.avatar_url,
 					title: d.title,
 					description: d.description,
+					who: d.who,
+					what: d.what,
+					why: d.why,
 					install: d.install,
 					usage: d.usage,
 					contributing: d.contributing,

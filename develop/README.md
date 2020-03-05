@@ -1,10 +1,10 @@
 
-# Read Me Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Read Me Generator  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description 
 
-This application will generate a new read me file for a project.
+test
 
 ## User Story
 
@@ -12,9 +12,9 @@ This application will generate a new read me file for a project.
 
 AS A developer
 
-I WANT a README generator
+I WANT a README generator 
 
-SO THAT I can easily generate a good README for a new project
+SO THAT I can easily put together a good README for a new project
 
 ```
 
@@ -44,7 +44,7 @@ npm i
 
 ## Usage
 
-This repo will need inquirer from npm.
+test2
 
 ## License
 
@@ -52,7 +52,7 @@ This project is licensed under the undefined license.
 
 ## Contributing
 
-All contribution welcome.
+test3
 
 ## Tests 
 

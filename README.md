@@ -58,6 +58,13 @@ THEN a README for the repo is generated
 
 ```
 
+## Finished HW GIF
+
+```
+<iframe src="https://giphy.com/embed/d9BAlDUPE4U2KtFxlx" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/d9BAlDUPE4U2KtFxlx">via GIPHY</a></p>
+
+```
+
 - - - 
 
 
