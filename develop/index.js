@@ -91,6 +91,7 @@ function init() {
 					why: d.why,
 					install: d.install,
 					usage: d.usage,
+					license: d.license,
 					contributing: d.contributing,
 					test: d.test
 				};
