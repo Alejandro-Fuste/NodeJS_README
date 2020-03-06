@@ -1,20 +1,20 @@
 
-# Read Me Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Template_Engine [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description 
 
-test
+This is project is node command line application. The purpose of this project is to create a software engineering team webpage using information obtained from the CLI. The app will get information about each team member, from the CLI, using the inquirer npm package. A webpage will then be generated using this information. This project will also being using object-oriented-programming principles.    
 
 ## User Story
 
 ```
 
-AS A developer
+AS A manager
 
-I WANT a README generator
+I WANT to generate a webpage that displays my team's basic info
 
-SO THAT I can easily put together a good README for a new project
+SO THAT I I have quick access to emails and GitHub profiles
 
 ```
 
@@ -44,7 +44,7 @@ npm i
 
 ## Usage
 
-test2
+This repos uses the inquirer npm package, OOP & TDD principles.
 
 ## License
 
@@ -52,7 +52,7 @@ This project is licensed under the undefined license.
 
 ## Contributing
 
-test3
+Contributions are welcome. 
 
 ## Tests 
 
@@ -68,5 +68,5 @@ npm test
 
 <img src="https://avatars2.githubusercontent.com/u/48495840?v=4" alt="avatar" style="border-radius: 16px" width="60"/>
 
-If you have any questions about the repo, open an issue or contact [Alejandro](https://github.com/ZepCap) directly at null.
+If you have any questions about the repo, open an issue or contact [Alejandro Fuste](https://github.com/ZepCap) directly at null.
 

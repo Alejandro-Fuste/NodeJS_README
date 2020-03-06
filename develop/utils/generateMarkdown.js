@@ -69,7 +69,7 @@ ${data.test}
 
 <img src="${data.image}" alt="avatar" style="border-radius: 16px" width="60"/>
 
-If you have any questions about the repo, open an issue or contact [${data.name}](${data.email}) directly at null.
+If you have any questions about the repo, open an issue or contact [${data.name}](${data.email}) directly through GitHub.
 
 `;
 }
