@@ -1,10 +1,10 @@
 
-# Read Me Generator (Node.js/ES6) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Read Me Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description 
 
-With this project, I was tasked with creating a command-line interface (CLI) application that will dynamically generate a README.md file with the input of a user. The user will be prompted, using inquirer package from NPM, for their GitHub username, project title, description of the project, and user story. The answer from those prompts will be used to generate the read me file. The file will include a table of contents, installation, usage, license, contributing, and tests sections. This CLI uses Node.js and ES6 Javascript. 
+test
 
 ## User Story
 
@@ -14,7 +14,7 @@ AS A developer
 
 I WANT a README generator
 
-SO THAT I can easily put together a good README file for a new project. 
+SO THAT I can easily put together a good README for a new project
 
 ```
 
@@ -44,7 +44,7 @@ npm i
 
 ## Usage
 
-This application is a CLI with Node.js and ES6 Javascript. 
+test
 
 ## License
 
@@ -52,7 +52,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Contributions are welcome. 
+test2
 
 ## Tests 
 
