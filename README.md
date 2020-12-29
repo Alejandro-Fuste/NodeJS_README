@@ -52,7 +52,7 @@ THEN a README for the repo is generated
 ```
 
 
-## Finished HW GIF
+## Finished GIF
 
 <img src="./assets/readmeGif.gif" alt="finished gif" style="border-radius: 16px" width="300" height="180"/>
 
