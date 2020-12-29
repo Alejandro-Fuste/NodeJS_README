@@ -1,7 +1,7 @@
 # Read Me Generator (Node.js/ES6) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-<img src="./assets/readmeGif.gif" alt="finished gif" style="border-radius:16px" width="500" height="380"/>
+<kbd><img src="./assets/readmeGif.gif" alt="finished gif" style="border-radius:16px" width="800" height="380"/></kbd>
 
 ## Description 
 
