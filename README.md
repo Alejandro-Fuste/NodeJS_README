@@ -5,7 +5,7 @@
 
 ## Description 
 
-With this project, I was tasked with creating a command-line interface (CLI) application that will dynamically generate a README.md file with the input of a user. The user will be prompted, using inquirer package from NPM, for their GitHub username, project title, description of the project, and user story. The answer from those prompts will be used to generate the read me file. The file will include a table of contents, installation, usage, license, contributing, and tests sections. This CLI uses <strong>Node.js and ES6 Javascript</strong>. 
+With this project, I was tasked with creating a command-line interface (CLI) application that will dynamically generate a README.md file with the input of a user. The user will be prompted, using inquirer package from NPM, for their GitHub username, project title, description of the project, and user story. The answer from those prompts will be used to generate the read me file. The file will include a table of contents, installation, usage, license, contributing, and tests sections. This CLI uses <strong>Node.js</strong> and <strong>ES6 Javascript</strong>. 
 
 ## User Story
 
