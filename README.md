@@ -1,60 +1,73 @@
-# Read Me Generator (Node.js/ES6)
+# Read Me Generator (Node.js/ES6) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-With this homework assignment, I was tasked with creating a command-line application that will
-dynamically generate a README.md with the input of a user. The user will be prompted, using the inquirer package from NPM, for their GITHub username, project title, description of the project, table of contents, installation, usage, license, contributing, and tests. The answer from these prompts will be used to create the read me file. 
-
-## Finished GIF
 
 <img src="./assets/readmeGif.gif" alt="finished gif" style="border-radius: 16px" width="300" height="180"/>
 
+## Description 
+
+With this project, I was tasked with creating a command-line interface (CLI) application that will dynamically generate a README.md file with the input of a user. The user will be prompted, using inquirer package from NPM, for their GitHub username, project title, description of the project, and user story. The answer from those prompts will be used to generate the read me file. The file will include a table of contents, installation, usage, license, contributing, and tests sections. This CLI uses Node.js and ES6 Javascript. 
 
 ## User Story
 
 ```
+
 AS A developer
 
 I WANT a README generator
 
-SO THAT I can easily put together a good README for a new project
+SO THAT I can easily put together a good README file for a new project. 
 
 ```
 
-## Business Context 
+## Table of Contents
 
-When starting a new project, it is important to have an awesome readme. Rather than creating one manually, a command-line application will allow for quick generation of readme for new projects.
+* [Installation](#installation)
 
-## Minimum Requirements
+* [Usage](#usage)
 
-* Functional, deployed application.
+* [License](#license)
 
-* GitHub repository with a unique name and a README describing project.
+* [Contributing](#contributing)
 
-* The generated README includes a bio image from the user's GitHub profile.
+* [Tests](#tests)
 
-* The generated README includes the user's email.
+* [Questions](#questions)
 
-* The generated README includes the following sections: 
-  * Title
-  * Description
-  * Table of Contents
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+## Installation
 
-* The generated README includes 1 badge that's specific to the repository.
-
-```
-GIVEN the developer has a GitHub profile and a repository
-
-WHEN prompted for the developer's GitHub username and repo specific information
-
-THEN a README for the repo is generated
+To install necessary dependencies, run the following command:
 
 ```
 
-- - - 
+npm i
 
+```
+
+## Usage
+
+This application is a CLI with Node.js and ES6 Javascript. 
+
+## License
+
+This project is licensed under the MIT license.
+
+## Contributing
+
+Contributions are welcome. 
+
+## Tests 
+
+To run tests, run the following command:
+
+```
+
+npm test
+
+```
+
+## Questions
+
+<img src="https://avatars2.githubusercontent.com/u/48495840?v=4" alt="avatar" style="border-radius: 16px" width="60"/>
+
+If you have any questions about the repo, open an issue or contact [Alejandro Fuste](https://github.com/Alejandro-Fuste) directly through GitHub.
 

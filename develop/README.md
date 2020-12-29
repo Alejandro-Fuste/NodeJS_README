@@ -1,20 +1,20 @@
 
-# Template_Engine [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Read Me Generator (Node.js/ES6) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description 
 
-This is project is node command line application. The purpose of this project is to create a software engineering team webpage using information obtained from the CLI. The app will get information about each team member, from the CLI, using the inquirer npm package. A webpage will then be generated using this information. This project will also being using object-oriented-programming principles.    
+With this project, I was tasked with creating a command-line interface (CLI) application that will dynamically generate a README.md file with the input of a user. The user will be prompted, using inquirer package from NPM, for their GitHub username, project title, description of the project, and user story. The answer from those prompts will be used to generate the read me file. The file will include a table of contents, installation, usage, license, contributing, and tests sections. This CLI uses Node.js and ES6 Javascript. 
 
 ## User Story
 
 ```
 
-AS A manager
+AS A developer
 
-I WANT to generate a webpage that displays my team's basic info
+I WANT a README generator
 
-SO THAT I I have quick access to emails and GitHub profiles
+SO THAT I can easily put together a good README file for a new project. 
 
 ```
 
@@ -44,11 +44,11 @@ npm i
 
 ## Usage
 
-This repos uses the inquirer npm package, OOP & TDD principles.
+This application is a CLI with Node.js and ES6 Javascript. 
 
 ## License
 
-This project is licensed under the undefined license.
+This project is licensed under the MIT license.
 
 ## Contributing
 
@@ -68,5 +68,5 @@ npm test
 
 <img src="https://avatars2.githubusercontent.com/u/48495840?v=4" alt="avatar" style="border-radius: 16px" width="60"/>
 
-If you have any questions about the repo, open an issue or contact [Alejandro Fuste](https://github.com/ZepCap) directly at null.
+If you have any questions about the repo, open an issue or contact [Alejandro Fuste](https://github.com/Alejandro-Fuste) directly through GitHub.
 
