@@ -1,4 +1,4 @@
-# Unit 9 (Node.js/ES6) Homework: Read Me Generator
+# Read Me Generator (Node.js/ES6)
 
 With this homework assignment, I was tasked with creating a command-line application that will
 dynamically generate a README.md with the input of a user. The user will be prompted, using the inquirer package from NPM, for their GITHub username, project title, description of the project, table of contents, installation, usage, license, contributing, and tests. The answer from these prompts will be used to create the read me file. 
