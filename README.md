@@ -3,6 +3,10 @@
 With this homework assignment, I was tasked with creating a command-line application that will
 dynamically generate a README.md with the input of a user. The user will be prompted, using the inquirer package from NPM, for their GITHub username, project title, description of the project, table of contents, installation, usage, license, contributing, and tests. The answer from these prompts will be used to create the read me file. 
 
+## Finished GIF
+
+<img src="./assets/readmeGif.gif" alt="finished gif" style="border-radius: 16px" width="300" height="180"/>
+
 
 ## User Story
 
@@ -50,12 +54,6 @@ WHEN prompted for the developer's GitHub username and repo specific information
 THEN a README for the repo is generated
 
 ```
-
-
-## Finished GIF
-
-<img src="./assets/readmeGif.gif" alt="finished gif" style="border-radius: 16px" width="300" height="180"/>
-
 
 - - - 
 
