@@ -1,5 +1,5 @@
 
-# Read Me Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Weather Dashboard [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description 
@@ -10,11 +10,11 @@ test
 
 ```
 
-AS A developer
+AS A traveler
 
-I WANT a README generator
+I WANT to see the weather outlook for multiple cities
 
-SO THAT I can easily put together a good README for a new project
+SO THAT I can plan a trip accordingly
 
 ```
 
@@ -44,7 +44,7 @@ npm i
 
 ## Usage
 
-test
+This app uses HTML, CSS, Javascript, Third-Party API, Web API, and Server-Side APIs.
 
 ## License
 
@@ -52,7 +52,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-test2
+Contributions are welcome. 
 
 ## Tests 
 
