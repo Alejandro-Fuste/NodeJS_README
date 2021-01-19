@@ -4,15 +4,16 @@ const fs = require('fs');
 const util = require('util');
 const questions = require('./utils/questions');
 const api = require('./utils/api');
+const writeToFile = require('./utils/writeToFile');
 const generateMarkdown = require('./utils/generateMarkdown');
 
-function writeToFile(fileName, data) {
-	fs.writeFile(fileName, data, (err) => {
-		if (err) {
-			throw err;
-		}
-	});
-}
+// function writeToFile(fileName, data) {
+// 	fs.writeFile(fileName, data, (err) => {
+// 		if (err) {
+// 			throw err;
+// 		}
+// 	});
+// }
 
 function init() {
 	inquirer
