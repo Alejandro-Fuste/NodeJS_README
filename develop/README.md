@@ -1,5 +1,5 @@
 
-# Password Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# test [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <table><tr><td>
 <img src="./images/finishedGif.gif" alt="finished gif" style="border-radius:16px" width="838" height="380"/>
@@ -7,17 +7,17 @@
 
 ## Description 
 
-This application generates a random password based on user-selected criteria. The app will run in the browser and feature dynamically updated HTML and CSS powered by Javascript. It also features a clean and polished user responsive interface. 
+test1
 
 ## User Story
 
 ```
 
-AS A employee with access to sensitive data
+AS A test2
 
-I WANT to randomly generate a password that meets certain criteria
+I WANT test3
 
-SO THAT I can create a strong password that provides greater security
+SO THAT I test4
 
 ```
 
@@ -41,13 +41,13 @@ To install necessary dependencies, run the following command:
 
 ```
 
-No dependencies needed
+npm i
 
 ```
 
 ## Usage
 
-This app used HTML, CSS, and Javascript
+test5
 
 ## License
 
@@ -55,7 +55,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Contributions are welcome. 
+test6
 
 ## Tests 
 
