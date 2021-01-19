@@ -1,20 +1,23 @@
 
-# Weather Dashboard [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Password Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+<table><tr><td>
+<img src="./images/finishedGif.gif" alt="finished gif" style="border-radius:16px" width="838" height="380"/>
+</table></tr></td>
 
 ## Description 
 
-test
+This application generates a random password based on user-selected criteria. The app will run in the browser and feature dynamically updated HTML and CSS powered by Javascript. It also features a clean and polished user responsive interface. 
 
 ## User Story
 
 ```
 
-AS A traveler
+AS A employee with access to sensitive data
 
-I WANT to see the weather outlook for multiple cities
+I WANT to randomly generate a password that meets certain criteria
 
-SO THAT I can plan a trip accordingly
+SO THAT I can create a strong password that provides greater security
 
 ```
 
@@ -38,13 +41,13 @@ To install necessary dependencies, run the following command:
 
 ```
 
-npm i
+No dependencies needed
 
 ```
 
 ## Usage
 
-This app uses HTML, CSS, Javascript, Third-Party API, Web API, and Server-Side APIs.
+This app used HTML, CSS, and Javascript
 
 ## License
 
