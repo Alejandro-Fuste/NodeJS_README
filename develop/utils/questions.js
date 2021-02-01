@@ -2,7 +2,15 @@ const questions = [
 	{
 		type: 'input',
 		name: 'userName',
-		message: 'What is your Github username?'
+		message: 'What is your Github username? (Required)',
+		validate: (userNameInput) => {
+			if (userNameInput) {
+				return true;
+			} else {
+				console.log('Please enter your name!');
+				return false;
+			}
+		}
 	},
 	{
 		type: 'input',
