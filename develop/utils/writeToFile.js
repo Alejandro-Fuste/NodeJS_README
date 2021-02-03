@@ -2,7 +2,15 @@ const fs = require('fs');
 
 const writeFile = (fileContent) => {
 	return new Promise((resolve, reject) => {
-		fs.writeFile('README.md', fileContent, (err) => {});
+		fs.writeFile('README.md', fileContent, (err) => {
+			if (err) {
+				reject(err);
+			}
+			resolve({
+				ok: true,
+				message: 'File Created!'
+			});
+		});
 	});
 };
 
@@ -14,4 +22,4 @@ const writeFile = (fileContent) => {
 // 	});
 // }
 
-module.exports = writeToFile;
+module.exports = writeFile;
